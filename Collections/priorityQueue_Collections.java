@@ -7,6 +7,9 @@ import java.util.PriorityQueue;
  * The PriorityQueue class implements the Queue interface.
  * It holds the elements or objects which are to be processed by their priorities.
  * PriorityQueue doesn't allow null values to be stored in the queue.
+ *
+ * public class PriorityQueue<e> extends AbstractQueue<e> implements Serializable
+ *
  */
 public class priorityQueue_Collections {
     public static void main(String[] args) {

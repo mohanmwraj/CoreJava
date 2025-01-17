@@ -5,7 +5,7 @@ package Collections;
  * In Deque, we can remove and add the elements from both the side.
  * Deque stands for a double-ended queue which enables us to perform the operations at both the ends.
  *
- *
+ *     public interface Deque<E> extends Queue<E>
  * Deque can be instantiated as:
  *     Deque d = new ArrayDeque();
  */

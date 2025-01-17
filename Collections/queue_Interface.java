@@ -15,6 +15,11 @@ package Collections;
  *
  * Queue<String> q1 = new PriorityQueue();
  * Queue<String> q2 = new ArrayDeque();
+ *
+ *
+ * public interface Queue<e> extends Collection<e>
+
+ * public class PriorityQueue<e> extends AbstractQueue<e> implements Serializable
  */
 
 public interface queue_Interface {
