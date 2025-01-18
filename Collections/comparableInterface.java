@@ -27,13 +27,6 @@ import java.util.*;
  *  Note: String class and Wrapper classes implement the Comparable interface by default.
  *  So if you store the objects of string or wrapper classes in a list, set or map, it will be Comparable by default.
  *
- *
- *
- *
- *
- *
- *
- *
  */
 class Student1 implements Comparable<Student1>{
     int rollno;
